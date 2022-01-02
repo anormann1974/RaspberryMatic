@@ -1,7 +1,7 @@
 {
   "name": "RaspberryMatic CCU",
   "version": "3.61.7.20211218",
-  "slug": "raspberrymatic",
+  "slug": "raspberrymatic_host",
   "image": "ghcr.io/jens-maus/raspberrymatic",
   "arch": ["armhf", "aarch64", "amd64"],
   "description": "HomeMatic/homematicIP CCU central based on RaspberryMatic",
