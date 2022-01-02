@@ -1,5 +1,5 @@
 {
-  "name": "RaspberryMatic CCU",
+  "name": "RaspberryMatic CCU by Andre",
   "version": "3.61.7.20211218",
   "slug": "raspberrymatic_host",
   "image": "ghcr.io/jens-maus/raspberrymatic",
