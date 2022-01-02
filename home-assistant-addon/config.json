@@ -7,7 +7,7 @@
   "description": "HomeMatic/homematicIP CCU central based on RaspberryMatic",
   "url": "https://github.com/anormann1974/RaspberryMatic/",
   "watchdog": "tcp://[HOST]:[PORT:80]",
-  host_network: true,
+  "host_network": true,
   "panel_title": "RaspberryMatic",
   "panel_icon": "mdi:router-wireless",
   "startup": "services",
